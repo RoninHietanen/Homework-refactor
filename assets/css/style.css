@@ -21,6 +21,7 @@ p {
 }
 
 /* Class Selectors */
+/* These are the parameters for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +38,7 @@ p {
     color: #d9dcd6;
 }
 
+/* These are the parameters for the navigation links*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -54,7 +56,7 @@ p {
     margin-left: 25px;
 }
 
-
+/* This is the parameters for the main image shown on the website */
 .hero {
     height: 800px;
     width: 100%;
@@ -91,6 +93,7 @@ p {
     background-color: #2589bd;
 }
 
+/* These are the margin parameters for the benefit bar */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,6 +109,7 @@ p {
     color: #ffffff;
 }
 
+/* These are the heading parameters for the benefit bar*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -121,6 +125,7 @@ p {
     text-align: center;
 }
 
+/* These are the margin parameters for the benefit images */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -139,6 +144,7 @@ p {
     max-width: 150px;
 }
 
+/* These are the font and box parameters for the 3 main content boxes */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -166,6 +172,7 @@ p {
     color: #ffffff;
 }
 
+/* Height parameters for the images that go with the 3 main content boxes */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -178,6 +185,7 @@ p {
     max-height: 200px;
 }
 
+/* The heading parameters for the 3 main content boxes*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -193,6 +201,7 @@ p {
     font-size: 36px;
 }
 
+/* These last 2 classes are the parameters for the footer*/
 .footer {
     padding: 30px;
     clear: both;
