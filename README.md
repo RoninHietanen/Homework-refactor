@@ -3,7 +3,7 @@ This is the README of the Horiseon Homepage.
 
 Below is the link to the live page:
 
-https:
+https://roninhietanen.github.io/Homework-refactor/
 
 # General Information:
 
